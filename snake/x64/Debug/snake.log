@@ -1,0 +1,5 @@
+﻿  snake.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\biancheng\vs work\cpp\snake\snake\snake.cpp(68,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\biancheng\vs work\cpp\snake\snake\snake.cpp(174,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  snake.vcxproj -> D:\biancheng\vs work\cpp\snake\x64\Debug\snake.exe
